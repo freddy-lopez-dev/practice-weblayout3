@@ -1,0 +1,11 @@
+{
+  "name": "freddy-weblayout-2",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  }
+}
